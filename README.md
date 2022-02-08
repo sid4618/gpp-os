@@ -1,12 +1,14 @@
 # gpp-os
-Repository for maintaining open source connections in GPP
-* The goal of this repo is to make ever-green open source connections starting right from our college
+Repository for peers introduction during Smart India Hackathon 2022
+* The goal of this repo is to find good team mates for Smart India Hackathon
 
 --------------------
 
-* To contribute to this repo just put your name and github URL in below format:
+* To contribute to this repo just put your name,your current Tech Stack and github URL in below format:
 ```
-x. [your-name](github-url-here) - Branch(current-year)
+x. [your-name](github-url-here) - Branch(current-year) 
+   - In what domains have your worked or are willing to work in?
+   - feel free to add more about yourself and your interests 
 ```
 
 -------------------
