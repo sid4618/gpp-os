@@ -14,7 +14,7 @@ Put your name down there and let the list grow by making a PR
 -------------------
 Let's go:
 
-1. [Siddharth Sabale](https://github.com/sid4618/) - Computer (Final Year)
+1. [Siddharth Sabale](https://github.com/siddharth-sable/) - Computer (Final Year)
 2. [Jiyan Patil](https://github.com/jiyanpatil07) - Computer (Final Year)
 3. [Prasad Patil](https://github.com/prasadpp18) - Computer (Final Year)
 
