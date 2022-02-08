@@ -9,6 +9,8 @@ Repository for peers introduction during Smart India Hackathon 2022
 x. [your-name](github-url-here) - Branch(current-year) 
    - In what domains have your worked or are willing to work in?
    - feel free to add more about yourself and your interests 
+   - you can also link your best projects down here
+   - Finally, how can people reach out to you: Twitter,Linkedin, Discord. Add anyone of them here. Happy Learning!
 ```
 
 -------------------
