@@ -19,6 +19,10 @@ Put your name down there and let the list grow by making a PR
 Let's go:
 
 1. [Siddharth Sabale](https://github.com/siddharth-sable/) - Computer (Final Year)
+   - I preferably work in MERN stack, can do with Next too (Web)
+   - I love reading books - self-help, spiritual and sometimes fiction.
+   - Feel free to reach me out: [Twitter](https://twitter.com/SidSabale), [LinkedIn](https://linkedin.com/in/siddharth-sable)
+   - Let's Connect 🚀
 2. [Jiyan Patil](https://github.com/jiyanpatil07) - Computer (Final Year)
 3. [Prasad Patil](https://github.com/prasadpp18) - Computer (Final Year)
 
