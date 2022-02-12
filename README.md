@@ -28,4 +28,8 @@ Let's go:
 4. [Tilak Dave](https://github.com/tiluckdave) - Computer (Final Year)
    - Trying to build SaaS applications.
    - Intern at [BlueLearn](https://bluelearn.in)
-
+5. [Priyanka Balivada](https://github.com/Priyanka-Balivada) -Computer (Final Year)
+   - I am a budding Full Stack MERN Developer.
+   - Currently learning authentication and security in web apps.
+   - I am fond of free hand drawing and sometimes reading.
+   - Get in Touch: [LinkedIn](https://www.linkedin.com/in/priyanka-balivada-285a081b2/)
