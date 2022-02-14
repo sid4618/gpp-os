@@ -37,3 +37,4 @@ Let's go:
 7. [Akshay Gade](https://github.com/AkshayGade23) - Computer (Final Year)
 8. [Pranavraj Goje](https://github.com/pranavraj-goje) - Computer (Final Year)
 9. [Vijay Jha](https://github.com/vijay-jha) - Computer (Final Year)
+10. [Sakshi Patil](https://github.com/sakshipatil321) - IT (Final Year)
