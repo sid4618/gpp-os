@@ -33,3 +33,7 @@ Let's go:
    - Currently learning authentication and security in web apps.
    - I am fond of free hand drawing and sometimes reading.
    - Get in Touch: [LinkedIn](https://www.linkedin.com/in/priyanka-balivada-285a081b2/)
+6. [Vinay Bhujbal](https://github.com/winay007) - Computer (Final Year)
+7. [Akshay Gade](https://github.com/AkshayGade23) - Computer (Final Year)
+8. [Pranavraj Goje](https://github.com/pranavraj-goje) - Computer (Final Year)
+9. [Vijay Jha](https://github.com/vijay-jha) - Computer (Final Year)
